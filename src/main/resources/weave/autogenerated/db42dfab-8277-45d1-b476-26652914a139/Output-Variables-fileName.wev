@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_db42dfab_8277_45d1_b476_26652914a139_Output_Variables_fileName = Any
+
